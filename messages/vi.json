@@ -1,0 +1,10 @@
+{
+  "Menu": {
+    "Home": "Trang chủ",
+    "About": "Giới thiệu",
+    "Contact": "Liên hệ",
+    "Login": "Đăng nhập",
+    "Register": "Đăng ký",
+    "Logout": "Đăng xuất"
+  }
+}
